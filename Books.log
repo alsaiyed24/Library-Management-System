@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\OrderProject\Java\wxid_bbfsrndrlo2822\图书馆系统\Books\Books\main.cpp(131,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Books.vcxproj -> E:\OrderProject\Java\wxid_bbfsrndrlo2822\图书馆系统\Books\x64\Debug\Books.exe
